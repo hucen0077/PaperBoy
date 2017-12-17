@@ -52,6 +52,7 @@ namespace Paperboy.Pages
                 //await DisplayAlert("Item Tapped", "An item was tapped.", "OK");
 
                 ////Deselect Item
+                //this is a test comment
                 //((ListView)sender).SelectedItem = null;
             }
             catch (Exception ex)
